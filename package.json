@@ -1,16 +1,16 @@
 {
-  "name": "node-ts-boilerplate",
+  "name": "ts-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate for Node apps with Typescript, Jest and Module aliases",
   "license": "MIT",
-  "author": "",
-  "homepage": "",
+  "author": "José Manuel Gulias Lugo",
+  "homepage": "https://github.com/chepetime/node-ts-boilerplate",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com"
+    "url": "git+https://github.com/chepetime/node-ts-boilerplate"
   },
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/chepetime/node-ts-boilerplate"
   },
   "main": "build/index.js",
   "scripts": {
@@ -44,8 +44,5 @@
     "nodejs",
     "prettier",
     "typescript"
-  ],
-  "_moduleAliases": {
-    "@": "src/"
-  }
+  ]
 }
