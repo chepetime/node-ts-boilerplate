@@ -1,4 +1,4 @@
-import { sum } from '@/utils/math';
+import { sum } from './utils/math';
 
 function loadEnv(): void {
   const EXAMPLE_KEY = `${process.env.EXAMPLE_KEY}`;

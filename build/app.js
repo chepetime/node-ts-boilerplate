@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const math_1 = require("@/utils/math");
+const math_1 = require("./utils/math");
 function loadEnv() {
     const EXAMPLE_KEY = `${process.env.EXAMPLE_KEY}`;
     console.log({ EXAMPLE_KEY });

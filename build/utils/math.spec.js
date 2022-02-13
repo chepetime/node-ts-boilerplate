@@ -11,7 +11,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 Object.defineProperty(exports, "__esModule", { value: true });
 const math_1 = require("@/utils/math");
 describe('Math operations', () => {
-    test('sum() returns `3`', () => __awaiter(void 0, void 0, void 0, function* () {
+    test('sum(1, 2) returns 3', () => __awaiter(void 0, void 0, void 0, function* () {
         expect((0, math_1.sum)(1, 2)).toEqual(3);
     }));
 });
