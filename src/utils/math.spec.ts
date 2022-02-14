@@ -1,4 +1,4 @@
-import { sum } from '@/utils/math';
+import { sum } from './math';
 
 describe('Math operations', () => {
   test('sum(1, 2) returns 3', async () => {

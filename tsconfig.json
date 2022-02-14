@@ -9,8 +9,10 @@
 
     "baseUrl": "./src",
     "paths": {
-      "@/*": ["*"]
+      "*": ["*"]
     },
+
+    "plugins": [{ "transform": "@zerollup/ts-transform-paths" }],
 
     "esModuleInterop": true,
     "resolveJsonModule": true,

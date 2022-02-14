@@ -1,6 +1,6 @@
 # Node, Typescript, Jest Boilderplate
 
-Boilerplate for Node apps with Typescript, Jest and Module aliases
+Boilerplate for Node apps with Typescript, Jest, esLint and Prettier
 
 ---
 
